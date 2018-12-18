@@ -158,7 +158,7 @@
         tools:layout_editor_absoluteY="392dp" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/valores"
         android:layout_width="331dp"
         android:layout_height="199dp"
         tools:layout_editor_absoluteX="27dp"
